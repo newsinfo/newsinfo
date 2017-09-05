@@ -1,0 +1,20 @@
+/*--Æù--*/
+@media(max-width:768px) {
+    body {
+        background: #808080
+    }
+
+    .sideCon {
+        display: none
+    }
+}
+
+/*--pc--*/
+@media(min-width:992px) {
+    body {
+        /*-background: #ffd800;-*/
+        position: static;
+        width: inherit;
+    }
+}
+
